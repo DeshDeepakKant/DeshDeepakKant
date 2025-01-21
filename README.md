@@ -38,7 +38,7 @@
 
 # Developer Profile 👨‍💻
 
-🚀 MERN Stack, Android Development, and Go Lang Developer with strong DSA foundation.
+🚀 MERN Stack, Android Development,Java, and Go Lang Developer with strong DSA foundation.
 
 🌱 Open-source enthusiast actively contributing to community projects.
 
