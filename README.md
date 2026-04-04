@@ -99,16 +99,6 @@ I build **production-ready AI systems**  from stateful multi-agent orchestration
 
 ## Work Experience
 
-### **Generative AI Intern** | [Wadhwani Foundation – GenieAI](https://skilling.wadhwanifoundation.org/)
-*Aug 2025 – Jan 2026 · Remote*
-
-- Designed stateful multi-agent systems using **LangGraph** for personalized learning workflows.
-- Built AI copilots (Tutor, Mentor, Interview Coach) with adaptive feedback and simulations.
-- Implemented **RAG pipelines** with retrieval, reranking, and context injection for improved grounding.
-- Engineered multimodal pipelines using **GPT, Gemini, Azure AI** for high-throughput content generation.
-
----
-
 ### **Open Source Contributor (LFX Mentee)** | [CNCF – TUF Visualizer](https://mentorship.lfx.linuxfoundation.org/project/ea1a5098-29ce-4799-82e0-07416ab4b56a)
 *Mar 2025 – May 2025 · Remote*
 
