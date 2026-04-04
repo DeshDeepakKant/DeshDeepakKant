@@ -69,7 +69,7 @@ I build **production-ready AI systems**  from stateful multi-agent orchestration
 - `Python` · `LangGraph` · `ChromaDB` · `FastAPI` · `CRAG` · `Knowledge Graphs` · `Gemini`
 
 ---
-/*
+
 ### [AI Interview Platform](https://github.com/DeshDeepakKant/AI-Interviewer)
 > **End-to-end mock interview system with real-time AI feedback · [Live Demo ↗](https://ai-interviewer-lovat.vercel.app/)**
 
@@ -79,7 +79,7 @@ I build **production-ready AI systems**  from stateful multi-agent orchestration
 - `React 19` · `Next.js` · `Node.js` · `Express` · `MongoDB` · `Redis` · `LangChain` · `Gemini`
 
 ---
-*/
+
 ### [TUF Metadata Visualizer](https://github.com/DeshDeepakKant/TUF-Metadata-Visualizer)
 > **Visualizing Software Supply Chain Security (CNCF - LFX '25)**
 
